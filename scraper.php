@@ -6,7 +6,7 @@
 // require 'scraperwiki/simple_html_dom.php';
 //
 // // Read in a page
-// $html = scraperwiki::scrape("http://foo.com");
+// $html = scraperwiki::scrape("http://www.mca.gov.in/mcafoportal/enquireDIN.do?DIN=00000001&displayCaptcha=false");
 //
 // // Find something on the page using css selectors
 // $dom = new simple_html_dom();
